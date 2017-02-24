@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=U6 Old Footprint=DCK0005A_M New Footprint=DCK0005A_M
+Added Pin To Net: NetName=BUZZ Pin=TEENSY1-9

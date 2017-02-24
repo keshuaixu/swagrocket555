@@ -1,0 +1,8 @@
+Added Component: Designator=U5(ADI-E-8-1_V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=AGND Pin=U5-3
+Added Pin To Net: NetName=NetU5_4 Pin=U5-4
+Added Pin To Net: NetName=NetR20_1 Pin=U5-6
+Added Pin To Net: NetName=VCC_5A Pin=U5-7
+Added Pin To Net: NetName=VCC_5A Pin=U5-8
+Added Member To Class: ClassName=Sheet1 Member=Component U5 ADXL78/AD22279

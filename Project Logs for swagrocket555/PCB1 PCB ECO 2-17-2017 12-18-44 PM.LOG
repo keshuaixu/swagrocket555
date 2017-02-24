@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=SERVO Pin=TEENSY1-7
+Added Pin To Net: NetName=SERVO Pin=TEENSY1-2

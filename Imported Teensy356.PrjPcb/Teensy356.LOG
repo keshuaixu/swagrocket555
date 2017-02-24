@@ -1,0 +1,17 @@
+Importer Log Report
+Project : Teensy356.PrjPcb
+
+Section : Analyze Document - C:\Users\Keshuai\Downloads\Teensy356.lbr
+    Analyzing data of C:\Users\Keshuai\Downloads\Teensy356.lbr
+    Load settings
+    Load layers 134
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
+
+Section : Import Document - C:\Users\Keshuai\Downloads\Teensy356.lbr
+    ERROR: Exception raised! Access violation at address 33ECC543 in module 'Importer_EAGLE.IWZ'. Read of address 00000030
+EndSection

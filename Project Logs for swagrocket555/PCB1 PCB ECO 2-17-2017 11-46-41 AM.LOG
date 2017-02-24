@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SCK Pin=R?-2
+Removed Pin From Net: NetName=LED4 Pin=TEENSY1-27
+Removed Member From Class: ClassName=Sheet1 Member=R?
+Added Component: Designator=R22(RES_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SCK Pin=R22-2
+Added Pin To Net: NetName=LED4 Pin=TEENSY1-30
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_1 Pin=TEENSY1-27
+Added Net: Name=NetR22_1
+Added Member To Class: ClassName=Sheet1 Member=Component R22 Res_0402

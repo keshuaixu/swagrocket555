@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=CHARGE Pin=TEENSY1-6
+Added Pin To Net: NetName=CHARGE Pin=TEENSY1-8

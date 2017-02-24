@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=VIN_SENSE Pin=TEENSY1-5
+Added Pin To Net: NetName=VIN_SENSE Pin=TEENSY1-21

@@ -1,0 +1,12 @@
+Added Component: Designator=C34(CAP_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Added Component: Designator=C35(CAP_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=C34-1
+Added Pin To Net: NetName=VCC_5A Pin=C34-2
+Added Pin To Net: NetName=AGND Pin=C35-1
+Added Pin To Net: NetName=VCC_5A Pin=C35-2
+Added Member To Class: ClassName=Sheet1 Member=Component C34 Cap_0402
+Added Member To Class: ClassName=Sheet1 Member=Component C35 Cap_0402

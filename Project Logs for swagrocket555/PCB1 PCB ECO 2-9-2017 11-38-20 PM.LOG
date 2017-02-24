@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=U5 Old Footprint=ADI-E-8-1_V New Footprint=ADI-E-8-1_V
+Added Pin To Net: NetName=VCC Pin=TEENSY1-3.3V2
+Added Pin To Net: NetName=GND Pin=TEENSY1-GND2

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=CS_LSM Pin=TEENSY1-20
+Removed Pin From Net: NetName=LSM_INT1 Pin=TEENSY1-37
+Removed Pin From Net: NetName=LSM_INT2 Pin=TEENSY1-38
+Added Pin To Net: NetName=LSM_INT1 Pin=TEENSY1-36
+Added Pin To Net: NetName=LSM_INT2 Pin=TEENSY1-37
+Added Pin To Net: NetName=CS_LSM Pin=TEENSY1-38
