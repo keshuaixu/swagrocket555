@@ -1,0 +1,21 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~swagrocket555.PrjPcb|ReportField=ProjectFullPath~C:\Users\Keshuai\Desktop\swagrocket555\swagrocket555.PrjPcb|ReportField=Title~Bill of Materials For Project [swagrocket555.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~74|ReportField=ReportTime~7:49:13 PM|ReportField=ReportDate~3/9/2017|ReportField=ReportDateTime~3/9/2017 7:49:13 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~3/9/2017|ReportField=CurrentTime~7:42:58 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Keshuai\Desktop\swagrocket555\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~3/7/2017|ReportField=Organization~|ReportField=ProjectName~swagrocket555.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~swagrocket555.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Keshuai\Desktop\swagrocket555\swagrocket555.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Cap_0805|Capacitor|C1, C2, C3, C4|CAP_0805|Cap_0805|4
+2|Cap_Tan_2917|Capacitor|C5|OFF_BOARD_CAP_3.5mm|Cap_Tan_2917|1
+3|Cap_0402|Capacitor|C7, C16, C17, C18, C19, C20, C21, C22, C23, C34, C35|CAP_0402|Cap_0402|11
+4|Cap_0603|Capacitor|C8, C9, C10, C11, C12, C13, C14, C15, C25, C26, C27, C28, C30, C31, C32, C33|CAP_0603|Cap_0603|16
+5|Diode_SOD523|Diode|D1, D2|SOT95P240X120-3N|Diode_SOD523|2
+6|LED_0402|LED|D3, D4, D5, D6, D7|LED_0402_RED|LED_0402|5
+7|691210910008|WR-TBL Terminal Blocks Serie 2109 - 2.54 mm with Rising Cage Clamp|J2|691210910008|691210910008|1
+8|Ind_0603|Inductor|L1|IND_0603|Ind_0603|1
+9|Buzzer CUI CSSJ4B20||LS1|CUI Buzzer 8.5|CSS-J4B20|1
+10|INFINEON MOSFET N-CH SOT-23-3||Q1, Q2|INFINEON SOT-23-3|INFINEON MOSFET N-CH SOT-23-3|2
+11|Res_0805|Resistor|R1|RES_0805|Res_0805|1
+12|Res_0402|Resistor|R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22|RES_0402|Res_0402|21
+13|434121050816|WS-TASV SMD Tact Switch 6.0X3.5 mm|SW1|434121050816|CMP-1459-00007-1|1
+14|Teensy3.6 edge only||TEENSY1|Teensy3.6-edgeonly|Teensy3.6 edge only|1
+15|LP2992IM5-5.0|Micropower 250 mA Low-Noise Ultra Low-Dropout Regulator, 5-pin SOT-23|U1|DBV0005A_N|CMP-0062-02178-3|1
+16|MS5607/5611||U2|MS5611|MS5611|1
+17|HSCDRRN160MDSA3||U3|honeywell-hsc-DIP8|honeywell-hsc-spi|1
+18|LSM6DSM||U4|LGA14L_DOT_INDICATOR|LSM6DS3|1
+19|ADXL78/AD22279||U5|ADI-E-8-1_V|ADXL78|1
+20|CAHCT1G125QDCKRG4Q|Automotive Catalog Single Bus Buffer Gate With 3-State Output, DCK0005A, LARGE T&R|U6|DCK0005A_M|CMP-0859-00347-3|1
